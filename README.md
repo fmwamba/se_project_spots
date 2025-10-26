@@ -30,4 +30,4 @@ Good luck and have fun!
 
 This webpage is deployed to Github Pages
 
-- Deployment Link
+-[ Deployment Link](https://fmwamba.github.io/se_project_spots/)
