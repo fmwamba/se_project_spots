@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer__copyright {
+  font-family: "poppins", sans-serif;
+  width: 104px;
+  height: 16px;
+  color: #212121 70%;
+}
