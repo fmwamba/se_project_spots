@@ -18,8 +18,6 @@ This project is made so all the elements are displayed correctly on popular scre
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
-Good luck and have fun!
-
 # Tech Stack
 
 - HTML
@@ -31,3 +29,7 @@ Good luck and have fun!
 This webpage is deployed to Github Pages
 
 -[ Deployment Link](https://fmwamba.github.io/se_project_spots/)
+
+## Project Pitch Video
+
+Check out this video where i describe my project (https://drive.google.com/file/d/1n3ZEgHJc1O2n-7DFPeHylH8PjZ7RdgHC/view?usp=sharing)
