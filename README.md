@@ -32,4 +32,4 @@ This webpage is deployed to Github Pages
 
 ## Project Pitch Video
 
-Check out this video where i describe my project (https://drive.google.com/file/d/1n3ZEgHJc1O2n-7DFPeHylH8PjZ7RdgHC/view?usp=sharing)
+Check out this video where i describe my project (https://www.loom.com/share/38059e5b9e6d4b01bed69029099cb911)
